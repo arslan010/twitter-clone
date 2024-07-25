@@ -27,7 +27,7 @@ A working Twitter clone written in Flutter using Firebase auth,realtime,firestor
 
 Welcome Page               |  Login Page               | Signup Page               |  Forgot Password Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/m-arslan-hafeez/twitter-clone/screenshots/Auth/screenshot_1.jpg?raw=true)|![](https://github.com/m-arslan-hafeez/twitter-clone/screenshots/Auth/screenshot_2.jpg?raw=true)|![](https://github.com/m-arslan-hafeez/twitter-clone/screenshots/Auth/screenshot_3.jpg?raw=true)|![](https://github.com/m-arslan-hafeez/twitter-clone/screenshots/Auth/screenshot_4.jpg?raw=true)|
+![](screenshots/Auth/screenshot_1.jpg)|![](screenshots/Auth/screenshot_2.jpg)|![](screenshots/Auth/screenshot_3.jpg)|![](screenshots/Auth/screenshot_4.jpg)|
 
 Home Page Sidebaar         |  Home Page       |   Home Page               |  Home Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
