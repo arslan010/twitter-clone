@@ -31,51 +31,177 @@ Welcome Page               |  Login Page               | Signup Page            
 
 Home Page Sidebaar         |  Home Page       |   Home Page               |  Home Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_7.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_6.jpg?raw=true)|
+![](screenshots/Home/screenshot_5.jpg)|![](screenshots/Home/screenshot_2.jpg)|![](screenshots/Home/screenshot_7.jpg)|![](screenshots/Home/screenshot_6.jpg)|
 
 Compose Tweet Page                  | Reply To Tweet       |   Reply to Tweet      |     Compose Retweet with comment
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/CreateTweet/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/CreateTweet/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/CreateTweet/screenshot_4.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/CreateTweet/screenshot_3.jpg?raw=true)|
+![](screenshots/CreateTweet/screenshot_1.jpg)|![](screenshots/CreateTweet/screenshot_2.jpg)|![](screenshots/CreateTweet/screenshot_4.jpg)|![](screenshots/CreateTweet/screenshot_3.jpg)|
 
 Tweet Detail Page         |  Tweet Thread              |   Nested Tweet Thread     | Tweet options
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/TweetDetail/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/TweetDetail/screenshot_4.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/TweetDetail/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/TweetDetail/screenshot_2.jpg?raw=true)|
+![](screenshots/TweetDetail/screenshot_3.jpg)|![](screenshots/TweetDetail/screenshot_4.)|![](screenshots/TweetDetail/screenshot_1.)|![](screenshots/TweetDetail/screenshot_2.jpg)|
 
 Notification Page         |  Notification Page         |   Notification Page       | Notification Setting Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Notification/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Notification/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Notification/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Notification/screenshot_4.jpg?raw=true)|
+![](screenshots/Notification/screenshot_1.jpg)|![]( screenshots/Notification/screenshot_2.jpg )|![]( screenshots/Notification/screenshot_3.jpg )|![]( screenshots/Notification/screenshot_4.jpg )|
 
 Profile Page                |  Profile Page            |   Profile  Page       | Profile  Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Profile/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Profile/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Profile/screenshot_4.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Profile/screenshot_7.jpg?raw=true)|
+![]( screenshots/Profile/screenshot_1.jpg )|![]( screenshots/Profile/screenshot_2.jpg )|![]( screenshots/Profile/screenshot_4.jpg )|![]( screenshots/Profile/screenshot_7.jpg )|
 
 Select User Page                |  Chat Page            |    Chat Users List       | Conversation Info Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Chat/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Chat/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Chat/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Chat/screenshot_4.jpg?raw=true)|
+![]( screenshots/Chat/screenshot_1.jpg )|![]( screenshots/Chat/screenshot_2.jpg )|![]( screenshots/Chat/screenshot_3.jpg )|![]( screenshots/Chat/screenshot_4.jpg )|
 
 Search Page                |  Search Setting Page            |  Tweet Options - 1     | Tweet Options - 2
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Search/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Search/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/TweetDetail/screenshot_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/TweetDetail/screenshot_6.jpg?raw=true)|
+![]( screenshots/Search/screenshot_1.jpg )|![]( screenshots/Search/screenshot_2.jpg )|![]( screenshots/TweetDetail/screenshot_5.jpg )|![]( screenshots/TweetDetail/screenshot_6.jpg )|
 
 
 Setting Page                |  Account Setting Page    |  Privacy Setting Page    | Privacy Settings Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_4.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_3.jpg?raw=true)|
+![]( screenshots/Settings/screenshot_1.jpg )|![]( screenshots/Settings/screenshot_2.jpg )|![]( screenshots/Settings/screenshot_4.jpg )|![]( screenshots/Settings/screenshot_3.jpg )|
 
 Content Prefrences Page      |  Display Setting Page    |  Data Settings Page    | Accessibility Settings
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_6.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_7.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_8.jpg?raw=true)|
+![]( screenshots/Settings/screenshot_5.jpg )|![]( screenshots/Settings/screenshot_6.jpg )|![]( screenshots/Settings/screenshot_7.jpg )|![]( screenshots/Settings/screenshot_8.jpg )|
 
   Users who likes Tweet        |  About Setting Page    |  Licenses Settings     |  Settings
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/TweetDetail/screenshot_7.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_9.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_10.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_81.jpg?raw=true)|
+![]( screenshots/TweetDetail/screenshot_7.jpg )|![]( screenshots/Settings/screenshot_9.jpg )|![]( screenshots/Settings/screenshot_10.jpg )|![]( screenshots/Settings/screenshot_81.jpg )|
 
 
 
 
 
 ## Getting started 
-* Project setup instructions are given at [Wiki](https://github.com/TheAlphamerc/flutter_twitter_clone/wiki/Gettings-Started) section.
+
+
+Sonu Sharma edited this page on Nov 27, 2022 · [10 revisions](https://github.com/TheAlphamerc/flutter_twitter_clone/wiki/Gettings-Started/_history)
+
+#### 1. [Flutter Environment Setup](https://flutter.dev/docs/get-started/install)
+
+> **Note**: Flutter sdk version 3.3.8 is recommended to run project
+
+#### 2\. Clone the repo
+
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   $ git clone https://github.com/TheAlphamerc/flutter_twitter_clone.git  $ cd flutter_twitter_clone/   `
+
+#### 3\. Setup the firebase app
+
+1.  You'll need to create a Firebase instance. Follow the instructions at [https://console.firebase.google.com](https://console.firebase.google.com/).
+    
+2.  Once your Firebase instance is created, you'll need to enable Google authentication.
+    
+
+*   Go to the Firebase Console for your new instance.
+    
+*   Click "Authentication" in the left-hand menu
+    
+*   Click the "sign-in method" tab
+    
+*   Click "Google" and enable it
+    
+*   Click "Email/Password" and enable it
+    
+
+1.  Enable the Firebase Database
+    
+
+*   Go to the Firebase Console
+    
+*   Click "Database" in the left-hand menu
+    
+*   Click the "Create Database" button
+    
+*   It will prompt you to set up, rules, for the sake of simplicity, let us choose test mode, for now.
+    
+*   On the next screen select any of the locations you prefer.
+    
+
+1.  (skip if not running on Android)
+    
+
+*   Create an app within your Firebase instance for Android, with package name > com.thealphamerc.flutter\_twitter\_clone\_dev
+    
+*   Run the following command to get your SHA-1 key:
+    
+
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   keytool -exportcert -list -v \  -alias androiddebugkey -keystore ~/.android/debug.keystore   `
+
+*   In the Firebase console, in the settings of your Android app, add your SHA-1 key by clicking "Add Fingerprint".
+    
+
+1.  Enable firebase storage (otherwise storing images will not work)
+    
+2.  Add "FcmServerKey" to Firebase Remote Config Follow below steps to get FCM server key.
+    
+
+*   Open your project in firebase.
+    
+*   Click on gear icon in sidebar. A popup will open then click on project settings
+
+
+![alt text](image.png)
+    
+*   Open Cloud messaging tab
+
+![alt text](image-1.png)
+    
+*   You can get FCM server key from there
+
+![alt text](image-2.png)
+    
+*   Go to firebase remote config
+    
+*   Create parameter with name FcmServerKey
+    
+*   Add below json to default value field.
+    
+
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML     `{            "key": "FCM server key here"       }` 
+
+Check below firebase config screenshot
+
+![alt text](image-3.png)
+
+7 Add another parameter in remote config to get the latest app version and supported builds
+
+> This step is optional for development mode.
+
+*   Open Remote Config section in fireabse.
+    
+*   Add supportedBuild as parameter key and below JSON in Default value.
+    
+*   Copy app version and build no. from pubspec.yaml
+    
+    ![alt text](image-4.png)
+
+Replace  and  in below JSON content with actual value and add this in default value field as per below screenshot.
+
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML `{     "name":"",     "versions":[]    }`
+
+![alt text](image-5.png)
+
+After adding supportedBuild key click on Publish Change button
+
+*   Download google-services.json
+    
+*   place google-services.json into /android/app/.
+    
+
+1.  (skip if not running on iOS)
+    
+
+*   Create an app within your Firebase instance for iOS, with your app package name
+    
+*   Follow instructions to download GoogleService-Info.plist
+    
+*   Open XCode, right click the Runner folder, select the "Add Files to 'Runner'" menu, and select the GoogleService-Info.plist file to add it to /ios/Runner in XCode
+    
+*   Open /ios/Runner/Info.plist in a text editor. Locate the CFBundleURLSchemes key. The second item in the array value of this key is specific to the Firebase instance. Replace it with the value for REVERSED\_CLIENT\_ID from GoogleService-Info.plist
+        
+
 
 ## Directory Structure
 <details>
@@ -209,30 +335,8 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 
 </details>
      
-## Contributing
-
-If you wish to contribute a change to any of the existing feature or add new in this repo,
-please review our [contribution guide](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/CONTRIBUTING.md),
-and send a [pull request](https://github.com/TheAlphamerc/flutter_twitter_clone/pulls). I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
-
-## Created & Maintained By
-
-[Sonu Sharma](https://github.com/TheAlphamerc) ([Twitter](https://www.twitter.com/TheAlphamerc)) ([Youtube](https://www.youtube.com/user/sonusharma045sonu/)) ([Insta](https://www.instagram.com/_sonu_sharma__)) ([Dev.to](https://dev.to/thealphamerc))
-  ![Twitter Follow](https://img.shields.io/twitter/follow/thealphamerc?style=social) 
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://paypal.me/TheAlphamerc/)
-
-> You can also nominate me for Github Star developer program
-> https://stars.github.com/nominate
 
 
-## Contributors
-[![](https://sourcerer.io/fame/TheAlphamerc/TheAlphamerc/flutter_twitter_clone/images/0)](https://sourcerer.io/fame/TheAlphamerc/TheAlphamerc/flutter_twitter_clone/links/0)[![](https://sourcerer.io/fame/TheAlphamerc/TheAlphamerc/flutter_twitter_clone/images/1)](https://sourcerer.io/fame/TheAlphamerc/TheAlphamerc/flutter_twitter_clone/links/1)[![](https://sourcerer.io/fame/TheAlphamerc/TheAlphamerc/flutter_twitter_clone/images/2)](https://sourcerer.io/fame/TheAlphamerc/TheAlphamerc/flutter_twitter_clone/links/2)
-
-## Sponsors
-* [Abdulbasit](https://github.com/AbdulbasitSaid)
 ## Visitors Count
 
 <img align="left" src = "https://profile-counter.glitch.me/flutter_twitter_clone/count.svg" alt ="Loading">
